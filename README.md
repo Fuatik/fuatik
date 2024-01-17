@@ -2,9 +2,12 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/fuatsafiulin/)">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/fuatsafiulin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.t.me/@FuatSafiulin">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
@@ -19,8 +22,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](FuatSafiulin) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fuatsafiulin@gmail.com)
+- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
