@@ -22,7 +22,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
